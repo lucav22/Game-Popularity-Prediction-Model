@@ -1,0 +1,20 @@
+{
+    "player_stats": {
+        "file_pattern": "player_stats_YYYYMM.csv",
+        "columns": {
+            "DateTime": {
+                "type": "timestamp",
+                "format": "YYYY-MM-DD HH:mm:ss"
+            },
+            "Players": {
+                "type": "integer",
+                "description": "Current player count"
+            },
+            "Average Players": {
+                "type": "float",
+                "description": "Running average of player count"
+            }
+        },
+        "update_frequency": "hourly"
+    }
+}
