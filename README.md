@@ -1,5 +1,7 @@
 # Game Popularity Predictor
 
+Presented by:Gianluca Villegas [gv2114@nyu.edu] and Kevin Zhu[yz4189@nyu.edu]
+
 A sophisticated machine learning framework for analyzing and predicting video game success through comprehensive player engagement analysis. This project combines statistical analysis, machine learning, and data visualization to understand what makes games successful in the long term.
 
 ## Project Overview
