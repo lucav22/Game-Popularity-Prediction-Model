@@ -1,4 +1,4 @@
-# Game Popularity Predictor
+# Game Popularity Prediction Model
 
 Presented by: Gianluca Villegas [gv2114@nyu.edu] and Kevin Zhu [yz4189@nyu.edu]
 
